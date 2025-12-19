@@ -21,6 +21,9 @@ body:
       options:
         - New Feature
         - Improvement
+      default: 0
+    validations:
+      required: true
   - type: dropdown
     id: os_type
     attributes:
