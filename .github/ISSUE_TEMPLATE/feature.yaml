@@ -33,7 +33,7 @@ body:
     id: suggestions
     attributes:
       label: What are the details of your suggestion?
-      description: Explain what do you want
+      description: "Explain what do you want"
       placeholder: Feature details!name: Feature Request
 
 
