@@ -19,11 +19,10 @@ body:
       label: Type of request?
       description: Select the type of your request
       options:
-        - New Feature
-        - Improvement
+        - New Feature(Default)
+        - Improvement(Edge)
       default: 0
-    validations:
-      required: true
+  
   - type: dropdown
     id: os_type
     attributes:
